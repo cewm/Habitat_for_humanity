@@ -1,0 +1,2 @@
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  103.8   110.7   123.2   120.7   129.5   136.1 
